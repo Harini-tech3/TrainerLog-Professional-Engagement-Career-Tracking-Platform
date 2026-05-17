@@ -1,0 +1,2 @@
+# TrainerLog-Professional-Engagement-Career-Tracking-Platform
+TrainerLog is a professional networking and career tracking platform for trainers to showcase workshops, certifications, achievements, and professional activities. Built with FastAPI, MongoDB, &amp; JWT authentication, it enables secure profile management, post sharing, engagement tracking,&amp; professional visibility through centralized digital platform.
